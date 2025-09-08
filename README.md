@@ -37,7 +37,7 @@ Este projeto converte arquivos no formato `.feature` (usados em testes BDD com G
 2. **Execute o Script**:
    - No terminal, navegue até o diretório do projeto e execute:
      ```bash
-     python ConversaoXlsx.py
+     python featureToXlsx.py
      ```
 
 3. **Arquivos Gerados**:
